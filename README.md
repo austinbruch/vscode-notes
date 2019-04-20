@@ -14,3 +14,4 @@ VS Code commands and shortcuts that make my life easier
 |See all references of a symbol|`Shift + F12`|`Shift + F12`|
 |Contextual code actions on selection|`Cmd + .`|`Ctrl + .`|
 |Delete a whole "block" of text to the left|`Option + delete`|`Alt + backspace`|
+|Delete the current line|`Cmd + Shift + k`|`Ctrl + Shift + k`|
