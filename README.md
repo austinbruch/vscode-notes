@@ -13,3 +13,4 @@ VS Code commands and shortcuts that make my life easier
 |Switch to a certain tab (specified by number)|`Ctrl + <number>`|`Ctrl + <number>`|
 |Contextual code actions on selection|`Cmd + .`|`Ctrl + .`|
 |Close all tabs|`Cmd + k, Cmd + w`|`Ctrl + k, Ctrl + w`|
+|Delete a whole "block" of text to the left|`Option + delete`|`Alt + backspace`|
