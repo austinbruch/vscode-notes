@@ -13,5 +13,9 @@ VS Code commands and shortcuts that make my life easier
 |Go to definition of a symbol|`F12`|`F12`|
 |See all references of a symbol|`Shift + F12`|`Shift + F12`|
 |Contextual code actions on selection|`Cmd + .`|`Ctrl + .`|
-|Delete a whole "block" of text to the left|`Option + delete`|`Alt + backspace`|
 |Delete the current line|`Cmd + Shift + k`|`Ctrl + Shift + k`|
+|Delete a whole "block" of text to the left|`Option + delete`|`Alt + backspace`|
+|Comment current line|`Cmd + /`|`Ctrl + /`|
+
+VS Code's Cheatsheet:
+[MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
