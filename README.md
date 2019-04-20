@@ -11,3 +11,4 @@ VS Code commands and shortcuts that make my life easier
 |Go to definition of a symbol|`F12`|`F12`|
 |See all references of a symbol|`Shift + F12`|`Shift + F12`|
 |Switch to a certain tab (specified by number)|`Ctrl + <number>`|`Ctrl + <number>`|
+|Contextual code actions on selection|`Cmd + .`|`Ctrl + .`|
