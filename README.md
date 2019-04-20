@@ -3,7 +3,7 @@ VS Code commands and shortcuts that make my life easier
 
 |Function|Command (MacOS)|Command (Windows/Linux)|
 |---|---|---|
-|Open a file|`Cmd + P`|`Ctrl + P`|
+|Open a file|`Cmd + p`|`Ctrl + p`|
 |Close tab|`Cmd + w`|`Ctrl + w`|
 |Close all tabs|`Cmd + k, Cmd + w`|`Ctrl + k, Ctrl + w`|
 |Switch to a certain tab (specified by number)|`Ctrl + <number>`|`Ctrl + <number>`|
